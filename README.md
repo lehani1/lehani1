@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lehani1
+- 🌱 I’m currently learning Data science and programming
+- 💞️ I’m looking to collaborate on open source projects in near future
