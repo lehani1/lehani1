@@ -13,7 +13,7 @@
 
 ### My skills
 
-![](https://img.icons8.com/color/48/000000/python--v1.png) ![](https://img.icons8.com/ios/48/000000/flask.png) ![](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/office/48/000000/sql.png) ![](https://img.icons8.com/stickers/48/000000/api.png) ![](https://img.icons8.com/color/48/000000/flutter.png) ![](https://img.icons8.com/color/48/000000/dart.png)
+![](https://img.icons8.com/color/48/000000/python--v1.png) ![](https://img.icons8.com/ios/48/000000/flask.png) ![](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/office/48/000000/sql.png) ![](https://img.icons8.com/stickers/48/000000/api.png) ![](https://img.icons8.com/color/48/000000/flutter.png) ![](https://img.icons8.com/color/48/000000/dart.png) ![](https://img.icons8.com/nolan/64/git.png)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:acb6e5,100:86fde8&height=200&section=header&text=bye!&fontSize=50&textBg=false&fontColor=ffffff&section=footer)
 
