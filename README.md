@@ -8,10 +8,7 @@
 
 
 ### My socials
-![](https://img.icons8.com/ultraviolet/30/000000/discord-logo.png) ![](https://img.shields.io/badge/zoovy-%233502-blue)
-<br/>
-
-[![](https://img.icons8.com/office/30/000000/twitter.png)](https://twitter.com/Lehani_)
+![](https://img.icons8.com/ultraviolet/30/000000/discord-logo.png) ![](https://img.shields.io/badge/zoovy-%233502-blue)    [![](https://img.icons8.com/office/30/000000/twitter.png)](https://twitter.com/Lehani_)
 
 ### My skills
 
