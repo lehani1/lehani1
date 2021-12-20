@@ -25,5 +25,5 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:acb6e5,100:86fde8&height=200&section=header&text=sayonara!&fontSize=50&textBg=false&fontColor=ffffff&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:acb6e5,100:86fde8&height=200&text=sayonara!&fontSize=50&textBg=false&fontColor=ffffff&section=footer)
 
