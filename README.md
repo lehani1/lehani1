@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hello%20and%20welcome%20to%20my%20Github%20profile!%20&height=100&fontSize=30&textBg=true)
 
 ### Description
-#### Hello! I'm [Lehani](https://lehani1.github.io/lehan1.github.io/). I'm an engineering sophomore and an aspiring data scientist. The motivation of data science comes from my love for technology, reasearch and lots of data on the internet to be analysed and inferred about. Furthermore, my interests in algorithms, mathematics and statistics, can be well quenched when I partake in data science!
+#### Hello! I'm [Lehani](https://lehani1.github.io/lehan1.github.io/). I'm a pre-final year engineering studnet and an aspiring data scientist. The motivation of data science comes from my love for technology, reasearch and lots of data on the internet to be analysed and inferred about. Furthermore, my interests in algorithms, mathematics and statistics, can be well quenched when I partake in data science!
 
 
 
